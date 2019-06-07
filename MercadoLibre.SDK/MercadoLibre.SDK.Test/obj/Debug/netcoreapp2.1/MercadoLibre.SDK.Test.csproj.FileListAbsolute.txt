@@ -1,0 +1,14 @@
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\bin\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.deps.json
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\bin\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.runtimeconfig.json
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\bin\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.runtimeconfig.dev.json
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\bin\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.dll
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\bin\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.pdb
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\obj\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.csprojAssemblyReference.cache
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\obj\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.csproj.CoreCompileInputs.cache
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\obj\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.AssemblyInfoInputs.cache
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\obj\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.AssemblyInfo.cs
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\obj\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.dll
+C:\Leo\Apps\MercadoLibre.Sdk\MercadoLibre.SDK\MercadoLibre.SDK.Test\obj\Debug\netcoreapp2.1\MercadoLibre.SDK.Test.pdb
