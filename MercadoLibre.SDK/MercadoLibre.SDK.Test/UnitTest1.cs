@@ -8,7 +8,7 @@ namespace MercadoLibre.SDK.Test
         [TestMethod]
         public void TestMethod1()
         {
-
+            Assert.AreEqual(1, 2, "Error test ");
         }
     }
 }
